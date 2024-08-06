@@ -20,8 +20,8 @@ npm install for admin, frontend and backend
 
 ## Run
 ```
-for frontend
-npm start
-fro admin && backend
-npm run dev
+# frontend
+  npm start
+# admin && backend
+  npm run dev
 ```
